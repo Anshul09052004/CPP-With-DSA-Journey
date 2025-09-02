@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 About This Repo  
+## 📘 About This Repository 
 This repo is to track my DSA (Data Structures & Algorithms) journey.
 I will keep pushing all the codes + problems + solutions written in C++ here. ✅
 ---
