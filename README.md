@@ -21,7 +21,7 @@ I will keep pushing all the codes + problems + solutions written in C++ here. âœ
 ## ðŸŒŸ How to Use  
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git@github.com:Anshul09052004/DSA-Journey.git
    ---
    ## run code
    g++ filename.cpp -o output
