@@ -2,15 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-DSA-blue?style=for-the-badge&logo=cplusplus" alt="C++ DSA" />
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/your-username/your-repo?style=for-the-badge" alt="Forks" />
 </p>
 
 ---
 
 ## 📘 About This Repo  
-यह repo मेरी **DSA (Data Structures & Algorithms)** की journey को track करने के लिए है।  
-मैं यहां पर C++ में लिखे गए सारे **codes + problems + solutions** push करता रहूँगा।  
+This repo is to track my DSA (Data Structures & Algorithms) journey.
+I will keep pushing all the codes + problems + solutions written in C++ here. ✅
 ---
 
 ## 🛠 Languages & Tools  
@@ -27,4 +25,4 @@
    ---
    ## run code
    g++ filename.cpp -o output
-./output
+
